@@ -63,6 +63,3 @@ if __name__ == "__main__":
 
 ## RESULT 
 Thus, python program to perform stop and wait protocol was successfully executed.
-
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
